@@ -7,3 +7,8 @@ technologies used:
 - jest
 - vite
 - tailwind
+
+instructions:
+* clone the repo
+* run `npm install` to install the dependencies
+* run `npm run dev` to view a local preview
